@@ -1,1 +1,1 @@
-Hackathon 2023 Rhythm Game!
+Hackathon 2023 Rhythm Game
